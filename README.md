@@ -1,4 +1,4 @@
-# 📚 Guia de Referência Rápida: Git
+﻿# 📚 Guia de Referência Rápida: Git
 
 Este guia contém os comandos essenciais do Git para o fluxo de trabalho diário de desenvolvimento, desde a configuração inicial até a manipulação de branches e repositórios remotos.
 
@@ -98,3 +98,5 @@ git restore --staged <arquivo>
 
 # Reverter um commit específico criando um novo commit inverso
 git revert <hash-do-commit>
+
+<!-- sync: repository update -->
